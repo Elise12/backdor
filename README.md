@@ -1,4 +1,4 @@
-# Dukungan Developer Telah Dihentikan
+# ELISE 404 NOT FOUND
 
 Cara Install :
 ```
@@ -12,14 +12,13 @@ Reuirements :
 ```
 Android 7+
 ```
-	ИСТОЧНИК:
-https://t.me/blackhat_files
-https://t.me/blackhat_files
-https://t.me/blackhat_files
-https://t.me/blackhat_files
-https://t.me/blackhat_files
-https://t.me/blackhat_files
-https://t.me/blackhat_files
-https://t.me/blackhat_files
-https://t.me/blackhat_files
-https://t.me/blackhat_files
+
+
+
+
+
+
+
+
+
+
